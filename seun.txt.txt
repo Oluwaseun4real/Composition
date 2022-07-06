@@ -1,19 +1,2 @@
-Python note 
-
-
-Python was developed by Guido van Rossum, a Dutch programmer, and was released in 1991.
-
-whatcan python do?
-
-Server-side development ( Django, Flask )
-Data Science ( Pytorch, Tensor-flow )
-Data analysis / Visualisation ( Matplotlib )
-Scripting ( Beautiful Soup )
-Embedded development
-
-Indentation:
-Another interesting part of this language is indentation. Why? Well, the answer is simple: It makes the code readable and well-formatted. It is compulsory in Python to follow the rules of indentation
-
-
-The Python shell gives us the power to quickly test any concept before integrating it into our application.
+My name is Kazeem Oluwaseun,I am a student aT stutern Graduate Accelerator Program.I'm on Backend development track for the ongoing cohort 1.3
 
